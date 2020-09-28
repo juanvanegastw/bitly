@@ -6,8 +6,6 @@
 [![php](https://img.shields.io/packagist/php-v/phplicengine/bitly)](https://packagist.org/packages/phplicengine/bitly)
 [![License](https://img.shields.io/packagist/l/phplicengine/bitly)](https://packagist.org/packages/phplicengine/bitly)
 
-
-
 # Bitly API v4
 
 ## Contents
